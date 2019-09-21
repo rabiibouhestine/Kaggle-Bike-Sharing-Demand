@@ -1,5 +1,7 @@
 # Kaggle Bike Sharing Demand Competition
+
 ![](https://storage.googleapis.com/kaggle-competitions/kaggle/3948/media/bikes.png)
+
 Combining Random Forest and XGBoost after tuning both models with a cross validation grid search to predict bike sharing demand.
 check out the notebook [here](https://github.com/rabiibouhestine/Kaggle-Bike-Sharing-Demand-Competition/blob/master/Bikes.ipynb)
 
